@@ -1,0 +1,10 @@
+﻿  VideoProcessorDlg.cpp
+c:\users\eomhyeonggeun\downloads\imageprocess\15_videoprocessor\imageSrc\MyImageFunc.h(28): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VideoProcessorDlg.cpp(199): note: 컴파일 중인 함수 템플릿 인스턴스화 'CMyImage<BYTE> RGB2Gray<BYTE>(const CMyImage<BYTE> &)'에 대한 참조를 확인하십시오.
+  코드를 생성하고 있습니다.
+  5 of 358 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  VideoProcessor.vcxproj -> C:\Users\eomhyeonggeun\Downloads\ImageProcess\15_VideoProcessor\Bin\VideoProcessor.exe
+  VideoProcessor.vcxproj -> Bin\VideoProcessor.pdb (Full PDB)

@@ -1,0 +1,3 @@
+/home/kobot/OpenCV/findLine/CMakeFiles/edit_cache.dir
+/home/kobot/OpenCV/findLine/CMakeFiles/rebuild_cache.dir
+/home/kobot/OpenCV/findLine/CMakeFiles/Test.dir
